@@ -1,4 +1,4 @@
-## Sales Report : https://github.com/Tauhid9231/Excel-Sales_Analysis/blob/main/AtliQHardware_Sales_report.pdf 
+## Sales Report : AtliQHardware_Sales_report.pdf
 
 
 - **Project objective:** 
