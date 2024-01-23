@@ -1,4 +1,4 @@
-## Sales Report : https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/AtliQHardware_Sales_report.pdf 
+## Sales Report : https://github.com/Tauhid9231/Excel-Sales_Analysis/blob/main/AtliQHardware_Sales_report.pdf 
 
 
 - **Project objective:** 
@@ -14,7 +14,7 @@
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
-## Finance Report : https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/AtliQHardware_Financial_report.pdf 
+## Finance Report : https://github.com/Tauhid9231/Excel-Sales_Analysis/blob/main/AtliQHardware_Financial_report.pdf 
 
 - **Project objective:** 
 
